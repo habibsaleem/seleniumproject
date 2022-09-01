@@ -21,6 +21,8 @@ public class Homepagetest {
     }
     @Test
     public void test2(){
+
         System.out.println("this is a test");
+        System.out.println("adding a new line");
     }
 }
